@@ -3,4 +3,4 @@ This contains all of the labs done for my algorithms course.
 
 The programing language used is python 3. 
 
-Each lab has a html file report that explains the objective and findings of the lab. 
+Each lab has a jypter notebook report and a html file version that explains the objective and findings of the lab. 
