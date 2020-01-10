@@ -1,5 +1,5 @@
-# CPS305-Algorithms
-This contains all of the labs done for my algorithms course.
+#Pythonn Stuff
+This contains all of python things I have done.
 
 The programing language used is python 3. 
 
